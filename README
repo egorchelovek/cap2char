@@ -5,12 +5,10 @@
  \___\__,_| .__|_____\___|_| |_|\__,_|_|   
           |_|        
 
-Aknowledgments
-
 This is the project of captcha recognizing program "cap2char".
 It based on OpenCV library with ANN_MLP support.
-The creator of the program - MD, Egor Zamotaev
-(e-mail: egor.zamotaev @mail.ru).
+The creator of the program - BD, Egor Zamotaev
+(e-mail: egor.zamotaev@mail.ru).
      
 To compile just run `make` command.
 
@@ -24,6 +22,3 @@ Must have:
   2ccue
   
 All right!
-
-P.S.
-Watch addition/datasets/ directory for more input data.
